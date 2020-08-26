@@ -15,7 +15,7 @@ This course develops the foundations of predictive modeling by introducing the k
 * Predictive Modeling. Selecting predictive modeling techniques, building and assessing models.
 * Model Implementation. Students will learn to implement models for the various applied regression modeling techniques covered in the course.  
 
-## Learning Objectives:
+## Learning Objectives
 * Demonstrate a practical understanding of the theoretical concepts behind applied regression modeling.
 * Analyze and select appropriate types and combinations of models given particular business situations.
 * Develop applied regression modeling techniques to address different types of data.
